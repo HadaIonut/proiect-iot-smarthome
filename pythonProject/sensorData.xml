@@ -159,4 +159,4 @@
         <Movement>1</Movement>
         <Humidity>1595</Humidity>
     </Measurement>
-</data>
+<Measurement><Temperature>1</Temperature><Movement>0</Movement><Humidity>1000</Humidity></Measurement><Measurement><Temperature>1</Temperature><Movement>1</Movement><Humidity>1000</Humidity></Measurement></data>

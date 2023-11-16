@@ -1,0 +1,164 @@
+{
+    "Measurement": [
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "2075"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "2075"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "1",
+            "Humidity": "2063"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "2072"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "2091"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "2102"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "2125"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "2259"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "1",
+            "Humidity": "2293"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "2317"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "2312"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "2309"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "2325"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "2327"
+        },
+        {
+            "Temperature": "0",
+            "Movement": "1",
+            "Humidity": "2330"
+        },
+        {
+            "Temperature": "0",
+            "Movement": "0",
+            "Humidity": "2337"
+        },
+        {
+            "Temperature": "0",
+            "Movement": "0",
+            "Humidity": "2350"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "4095"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "4095"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "1",
+            "Humidity": "4095"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "3575"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "2152"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "1",
+            "Humidity": "1806"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "1691"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "1541"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "1556"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "1787"
+        },
+        {
+            "Temperature": "1",
+            "Movement": "0",
+            "Humidity": "1887"
+        },
+        {
+            "Temperature": "0",
+            "Movement": "1",
+            "Humidity": "2758"
+        },
+        {
+            "Temperature": "0",
+            "Movement": "0",
+            "Humidity": "2205"
+        },
+        {
+            "Temperature": "0",
+            "Movement": "0",
+            "Humidity": "3717"
+        },
+        {
+            "Temperature": "0",
+            "Movement": "1",
+            "Humidity": "1595"
+        }
+    ]
+}
