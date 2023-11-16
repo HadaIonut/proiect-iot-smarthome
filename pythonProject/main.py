@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 import xml.etree.ElementTree as ET
 from sendMail import sendEmail
+import datetime
 
 app = FastAPI()
 
@@ -20,6 +21,7 @@ async def root(sensorData: SensorData):
     ET.SubElement(entry, "Temperature").text = str(sensorData.temperature)
     ET.SubElement(entry, "Movement").text = str(sensorData.movement)
     ET.SubElement(entry, "Humidity").text = str(sensorData.humidity)
+    ET.SubElement(entry, "TimeStamp").text = str(datetime.datetime.now())
     if sensorData.humidity >3000:
         print("merge")
         sendEmail()
