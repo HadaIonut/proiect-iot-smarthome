@@ -22,7 +22,7 @@ def sendEmail():
         msg['Subject'] = 'Alerta casa!'
 
         # Adaugă corpul mesajului
-        body = 'TEMPERATURA RIDICATA!!!.'
+        body = 'UDA PLANTA.'
         msg.attach(MIMEText(body, 'plain'))
 
         # Conectează-te la serverul SMTP
@@ -40,4 +40,4 @@ def sendEmail():
         print(f"A apărut o eroare: {e}")
 
 #verificare
-sendEmail()
+#sendEmail()
