@@ -40,4 +40,4 @@ def sendEmail():
         print(f"A apărut o eroare: {e}")
 
 #verificare
-#sendEmail()
+# sendEmail()

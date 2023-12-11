@@ -34,4 +34,4 @@ def pushData():
 	print("SEND")
 
 #verificare
-pushData()
+# pushData()
